@@ -1,0 +1,249 @@
+{
+  "companies": [
+    {
+      "company": "浩宇生醫",
+      "former_name": "健亞生技",
+      "founder_ceo": "劉浩禮（長庚大學教授，團隊成員：魏國珍、陳品元）",
+      "chairman": "陳正",
+      "background": "原為健亞生技，董事長陳正決定轉投資成立浩宇生醫，聚焦於此藥物監控技術之發展。",
+      "key_investors": ["益鼎", "華南金", "國發基金", "台安生技"],
+      "development_scope": [
+        "無創式超音波腦部局部藥物監控釋放技術",
+        "手術導航聚焦式超音波中樞神經藥物遞送系統",
+        "聚焦式超音波NaviFUS系統"
+      ],
+      "patents": [
+        {
+          "title": "超音波影像系統",
+          "grant_date": "2024-08-11",
+          "patent_no": "I852356",
+          "application_no": "112106166"
+        },
+        {
+          "title": "貝伐單抗用於製備治療腦瘤之藥物的用途及其套組",
+          "grant_date": "2022-01-01",
+          "patent_no": "I751122",
+          "application_no": "105136606"
+        },
+        {
+          "title": "手術導引系統",
+          "grant_date": "2021-05-01",
+          "patent_no": "I726548",
+          "application_no": "108147165"
+        }
+      ],
+      "funding_rounds": [
+        {
+          "round_id": "A",
+          "tranches": 1,
+          "total_amount_usd": 2148549,
+          "amount_fully_disclosed": true,
+          "event_ids": ["haoyu-2016-001"]
+        },
+        {
+          "round_id": "B",
+          "tranches": 3,
+          "total_amount_usd": 1897726,
+          "amount_fully_disclosed": false,
+          "note": "已知1,897,726美元僅為第1批，第2批(2020/12)與第3批(2021/09)金額未揭露，故此total_amount_usd僅為目前已知下限。",
+          "event_ids": ["haoyu-2018-001", "haoyu-2020-001", "haoyu-2021-003"]
+        }
+      ],
+      "research_notes": {
+        "question": "為什麼六間主要創投裡面會有兩家公司都選擇投資浩宇生醫?",
+        "hypotheses": [
+          "判斷機構買入信號",
+          "判斷危機發生時，投資者態度之情緒分析"
+        ]
+      },
+      "events": [
+        {
+          "id": "haoyu-2015-001",
+          "year": 2015,
+          "date": "2015",
+          "category": "成立/獲獎",
+          "title": "榮獲國家新創獎並創立團隊",
+          "description": "憑藉無創式超音波腦部局部藥物監控釋放技術榮獲國家新創獎，同年創立浩宇生醫團隊。",
+          "tags": ["里程碑", "成立"],
+          "source": ""
+        },
+        {
+          "id": "haoyu-2016-001",
+          "year": 2016,
+          "date": "2016-07",
+          "category": "募資",
+          "title": "A輪募資 2,148,549美元",
+          "description": "投資者包含益鼎、華南金、國發基金。",
+          "tags": ["A輪", "募資"],
+          "round_id": "A",
+          "tranche": 1,
+          "amount_usd": 2148549,
+          "amount_disclosed": true,
+          "source": ""
+        },
+        {
+          "id": "haoyu-2017-001",
+          "year": 2017,
+          "date": "2017",
+          "category": "研發/臨床",
+          "title": "完成動物實驗並申請人體臨床",
+          "description": "產品已完成動物實驗，分別在台灣及澳洲申請人體臨床。",
+          "tags": ["臨床試驗"],
+          "source": ""
+        },
+        {
+          "id": "haoyu-2018-001",
+          "year": 2018,
+          "date": "2018-07",
+          "category": "募資",
+          "title": "B輪募資 1,897,726美元（第1批）",
+          "description": "投資者包含台安生技、華南金、國發基金。",
+          "tags": ["B輪", "募資"],
+          "round_id": "B",
+          "tranche": 1,
+          "amount_usd": 1897726,
+          "amount_disclosed": true,
+          "source": ""
+        },
+        {
+          "id": "haoyu-2018-002",
+          "year": 2018,
+          "date": "2018-01",
+          "category": "臨床試驗",
+          "title": "TFDA輔導執行復發惡性腦瘤臨床試驗",
+          "description": "在衛生福利部食品藥物管理署（TFDA）輔導協助下，順利執行復發惡性腦瘤患者之臨床試驗。",
+          "tags": ["TFDA", "腦瘤"],
+          "source": ""
+        },
+        {
+          "id": "haoyu-2018-003",
+          "year": 2018,
+          "date": "2018-Q3",
+          "category": "臨床試驗",
+          "title": "預計於澳洲啟動阿茲海默症人體試驗",
+          "description": "希望利用澳洲法規與租稅優勢，結合墨爾本神經醫學研究重鎮，預計第3季啟動阿茲海默症相關人體試驗，加速NaviFUS系統應用開發。",
+          "tags": ["澳洲", "阿茲海默症"],
+          "source": ""
+        },
+        {
+          "id": "haoyu-2018-004",
+          "year": 2018,
+          "date": "2018",
+          "category": "公司治理",
+          "title": "預計辦理公發",
+          "description": "浩宇生醫由健亞生技轉投資成立，並預計於2018下半年辦理公開發行。",
+          "tags": ["公發"],
+          "source": ""
+        },
+        {
+          "id": "haoyu-2019-001",
+          "year": 2019,
+          "date": "2019",
+          "category": "臨床試驗",
+          "title": "獲TFDA核准頑性癲癇臨床試驗",
+          "description": "獲TFDA核准人體臨床，預計第二季開始收案。此次臨床以頑性癲癇患者為主，為兩階段開放式研究，評估NaviFUS系統之安全性與耐受性，並觀察顱內腦電波(iEEG)變化。",
+          "tags": ["TFDA", "頑性癲癇"],
+          "source": ""
+        },
+        {
+          "id": "haoyu-2019-002",
+          "year": 2019,
+          "date": "2019-07",
+          "category": "臨床試驗",
+          "title": "長庚醫院啟動腦瘤人體臨床試驗",
+          "description": "針對腦瘤患者正式在長庚醫院啟動人體臨床試驗，並招收第一個受試案例。",
+          "tags": ["長庚醫院", "腦瘤"],
+          "source": ""
+        },
+        {
+          "id": "haoyu-2019-003",
+          "year": 2019,
+          "date": "2019",
+          "category": "補助",
+          "title": "獲美國聚焦式超音波基金會補助",
+          "description": "已獲美國聚焦式超音波基金會核准專案補助，未來將根據臨床試驗進度分批補助試驗經費。",
+          "tags": ["補助"],
+          "source": ""
+        },
+        {
+          "id": "haoyu-2019-004",
+          "year": 2019,
+          "date": "2019",
+          "category": "合作",
+          "title": "與史丹福大學及澳洲阿爾弗雷德醫院合作",
+          "description": "復發性腦瘤治療試驗將與史丹福大學合作，阿茲海默症治療則與澳洲阿爾弗雷德醫院合作，預計今年皆送件申請臨床。",
+          "tags": ["史丹福大學", "阿爾弗雷德醫院"],
+          "source": ""
+        },
+        {
+          "id": "haoyu-2020-001",
+          "year": 2020,
+          "date": "2020-12",
+          "category": "募資",
+          "title": "B輪募資（第2批，未揭露金額）",
+          "description": "同一輪B輪分批到位，此批募資金額未揭露。",
+          "tags": ["B輪", "募資"],
+          "round_id": "B",
+          "tranche": 2,
+          "amount_usd": null,
+          "amount_disclosed": false,
+          "source": ""
+        },
+        {
+          "id": "haoyu-2021-001",
+          "year": 2021,
+          "date": "2021",
+          "category": "產品研發",
+          "title": "聚焦式超音波技術兌現成新一代無創醫療利器",
+          "description": "聚焦式超音波技術已兌現成為新一代無創醫療利器。",
+          "tags": ["技術"],
+          "source": ""
+        },
+        {
+          "id": "haoyu-2021-002",
+          "year": 2021,
+          "date": "2021-09",
+          "category": "法規",
+          "title": "NAVIRFA®提交TFDA與FDA二類醫材許可申請",
+          "description": "研發NAVIRFA®超音波3D手術針具追蹤系統，已提交台灣TFDA與美國FDA之二類醫材許可申請；TFDA已於9月中查廠，有望於隔年第一季取得許可。",
+          "tags": ["NAVIRFA", "TFDA", "FDA"],
+          "source": ""
+        },
+        {
+          "id": "haoyu-2021-003",
+          "year": 2021,
+          "date": "2021-09",
+          "category": "募資",
+          "title": "B輪募資（第3批，未揭露金額）",
+          "description": "同一輪B輪分批到位，此批募資金額未揭露。",
+          "tags": ["B輪", "募資"],
+          "round_id": "B",
+          "tranche": 3,
+          "amount_usd": null,
+          "amount_disclosed": false,
+          "source": ""
+        },
+        {
+          "id": "haoyu-2021-004",
+          "year": 2021,
+          "date": "2021",
+          "category": "資本市場規劃",
+          "title": "預計2021下半年興櫃，兩年內IPO",
+          "description": "公司規劃於2021下半年興櫃，並預計兩年內完成IPO。",
+          "tags": ["興櫃", "IPO"],
+          "source": ""
+        },
+        {
+          "id": "haoyu-2022-001",
+          "year": 2022,
+          "date": "2022-06",
+          "category": "資本市場",
+          "title": "浩宇生醫興櫃",
+          "description": "浩宇生醫正式興櫃。",
+          "tags": ["興櫃"],
+          "source": ""
+        }
+      ]
+    }
+  ]
+}
