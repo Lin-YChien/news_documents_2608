@@ -244,6 +244,152 @@
           "source": ""
         }
       ]
+    },
+    {
+  "company": "新旭生技",
+  "founder_ceo": "張明奎",
+  "background": "",
+  "key_investors": ["KTB Network（韓國）", "DCI Partners（日本）", "ShangPharma Group（中國）", "台安生技（台灣）"],
+  "development_scope": [
+    "神經退化性疾病（如阿茲海默症、失智症）診斷藥物及檢測工具開發",
+    "tau蛋白顯影劑APN-1607，曾獲美國FDA快速通道資格"
+  ],
+  "patents": [],
+  "research_notes": {
+    "question": "為什麼六間主要創投裡面會有兩家公司都選擇投資新旭生技?",
+    "hypotheses": [
+      "判斷機構買入信號",
+      "判斷危機發生時，投資者態度之情緒分析"
+    ]
+  },
+  "funding_rounds": [
+    {
+      "round_id": "Seed",
+      "tranches": 1,
+      "total_amount_usd": null,
+      "amount_fully_disclosed": false,
+      "event_ids": ["xinxu-2015-001"]
+    },
+    {
+      "round_id": "A",
+      "tranches": 1,
+      "total_amount_usd": 6400000,
+      "amount_fully_disclosed": true,
+      "event_ids": ["xinxu-2016-001"]
+    },
+    {
+      "round_id": "B",
+      "tranches": 1,
+      "total_amount_usd": null,
+      "amount_fully_disclosed": false,
+      "event_ids": ["xinxu-2018-001"]
+    },
+    {
+      "round_id": "C",
+      "tranches": 1,
+      "total_amount_usd": null,
+      "amount_fully_disclosed": false,
+      "event_ids": ["xinxu-2021-002"]
     }
+  ],
+  "events": [
+    {
+      "id": "xinxu-2015-001",
+      "year": 2015,
+      "date": "2015-05",
+      "category": "募資",
+      "title": "種子輪募資",
+      "description": "開發阿茲海默症臨床新藥和影像診斷技術Tau正子顯影劑，同年10月顯影劑通過美國IND申請，可望產生第一批受試者。",
+      "tags": ["種子輪", "募資", "IND"],
+      "round_id": "Seed",
+      "tranche": 1,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "source": ""
+    },
+    {
+      "id": "xinxu-2016-001",
+      "year": 2016,
+      "date": "2016-05",
+      "category": "募資",
+      "title": "A輪募資 640萬美元",
+      "description": "A輪資金用以支持完成臨床前研發工作，以及第二代tau蛋白正子攝影示蹤劑18F-PM-PBB3在美國、日本的臨床試驗。",
+      "tags": ["A輪", "募資"],
+      "round_id": "A",
+      "tranche": 1,
+      "amount_usd": 6400000,
+      "amount_disclosed": true,
+      "source": ""
+    },
+    {
+      "id": "xinxu-2018-001",
+      "year": 2018,
+      "date": "2018-01",
+      "category": "募資",
+      "title": "B輪募資（未揭露金額）",
+      "description": "KTB Network（韓國）、DCI Partners（日本）領投，ShangPharma Group（中國）、台安生技（台灣）參與。",
+      "tags": ["B輪", "募資"],
+      "round_id": "B",
+      "tranche": 1,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "source": ""
+    },
+    {
+      "id": "xinxu-2018-002",
+      "year": 2018,
+      "date": "2018",
+      "category": "研發",
+      "title": "執行現有及未來產品研發",
+      "description": "正在執行現有及未來的產品研發，包括第三代tau蛋白正子攝影示踪劑、α-突觸核蛋白正子攝影示踪劑和兩個獨特的治療方案。",
+      "tags": ["研發", "tau蛋白"],
+      "source": ""
+    },
+    {
+      "id": "xinxu-2019-001",
+      "year": 2019,
+      "date": "2019-11-21",
+      "category": "臨床試驗",
+      "title": "18F-APN-1607啟動阿茲海默症臨床二期試驗",
+      "description": "tau蛋白正子攝影(PET)示蹤劑18F-APN-1607已在美國啟動多國多中心的阿茲海默症臨床二期試驗（試驗編號：NCT04141150），比較輕度認知功能障礙患者、阿茲海默症失智症患者與老年健康受試者大腦內tau蛋白堆積程度的差異。",
+      "tags": ["臨床試驗", "APN-1607", "NCT04141150"],
+      "source": ""
+    },
+    {
+      "id": "xinxu-2021-001",
+      "year": 2021,
+      "date": "2021-12-26",
+      "category": "授權合作",
+      "title": "與新基公司簽訂非專屬授權協議",
+      "description": "宣布與新基公司簽訂非專屬授權協議，授權新基公司使用其開發中的新型Tau蛋白正電子放射斷層攝影（PET）示蹤劑[18F]-APN-1607，於新基公司之全球臨床實驗中協助進行臨床收案和藥效評估。",
+      "tags": ["授權合作", "新基公司", "APN-1607"],
+      "source": ""
+    },
+    {
+      "id": "xinxu-2021-002",
+      "year": 2021,
+      "date": "2021-12",
+      "category": "募資",
+      "title": "C輪募資（未揭露金額）",
+      "description": "募資金額未揭露。",
+      "tags": ["C輪", "募資"],
+      "round_id": "C",
+      "tranche": 1,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "source": ""
+    },
+    {
+      "id": "xinxu-2025-001",
+      "year": 2025,
+      "date": "2025-07-25",
+      "category": "資本市場",
+      "title": "正式上市櫃",
+      "description": "新旭生技正式上市櫃。",
+      "tags": ["上市櫃"],
+      "source": ""
+    }
+  ]
+}
   ]
 }
