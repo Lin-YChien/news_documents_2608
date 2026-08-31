@@ -514,6 +514,218 @@
       "sentiment": "正向"
     }
   ]
+},
+{
+  "company": "拍拍圈",
+  "aliases": ["Popchill"],
+  "founder_ceo": "郭家齊、廖家欣",
+  "background": "郭家齊為台灣知名新創企業家，曾創辦生活市集、松果購物等線上購物平台。2022年他離開松果購物，與妻子廖家欣共同創辦Popchill，為兩人共同創立的第24個網站。團隊為網路連續創業者，過往經營實績包括一家公司被美國網路公司Groupon收購、一家公司成為台灣最快上櫃50億電商、一家公司成功登錄興櫃。所選定的二手精品交易題目也符合近年投資者對ESG（環境、社會、治理）及永續（Sustainability）相關議題的趨勢。",
+  "key_investors": [
+    "AppWorks（之初創業投資，Pre-A、A輪）",
+    "達盈（A輪）",
+    "益鼎（A輪、Pre-A輪）"
+  ],
+  "development_scope": [
+    "定位為二手精品銷售平台，鎖定台灣缺少官方認證精品二手交易平台的市場空缺",
+    "以社群為核心的社群電商（social commerce），透過使用者分享心得增加消費者信任與黏著度",
+    "2021年起以線上平台為主，2026年開始拓展實體店面"
+  ],
+  "patents": [],
+  "research_notes": {
+    "question": "為什麼六間主要創投裡面會有三家公司都選擇投資拍拍圈?",
+    "hypotheses": [
+      "判斷機構買入信號",
+      "判斷危機發生時，投資者態度之情緒分析"
+    ]
+  },
+  "funding_rounds": [
+    {
+      "round_id": "Seed",
+      "tranches": 1,
+      "total_amount_twd": 40000000,
+      "total_amount_usd": null,
+      "amount_fully_disclosed": true,
+      "note": "由創辦人及其家族自身出資，金額為新台幣計價。",
+      "event_ids": ["popchill-2022-001"]
+    },
+    {
+      "round_id": "Pre-A",
+      "tranches": 3,
+      "total_amount_usd": 3093747,
+      "amount_fully_disclosed": false,
+      "note": "Pre-A輪共分三批到位：2022/01（未揭露金額）、2023/10（1,329,130美元）、2024/04（1,764,617美元）。total_amount_usd僅加總已揭露的兩批，第一批金額未知，故此數字為目前已知下限。",
+      "event_ids": ["popchill-2022-002", "popchill-2023-001", "popchill-2024-001"]
+    },
+    {
+      "round_id": "A",
+      "tranches": 1,
+      "total_amount_usd": 3147884,
+      "amount_fully_disclosed": true,
+      "event_ids": ["popchill-2025-001"]
+    }
+  ],
+  "events": [
+    {
+      "id": "popchill-2022-001",
+      "year": 2022,
+      "date": "2022",
+      "category": "募資",
+      "title": "種子輪募資 4,000萬新台幣",
+      "description": "由創辦人及其家族自身出資。",
+      "tags": ["種子輪", "募資"],
+      "round_id": "Seed",
+      "tranche": 1,
+      "amount_twd": 40000000,
+      "amount_usd": null,
+      "amount_disclosed": true,
+      "source": ""
+    },
+    {
+      "id": "popchill-2022-002",
+      "year": 2022,
+      "date": "2022-01",
+      "category": "募資",
+      "title": "Pre-A輪募資（第1批，未揭露金額）",
+      "description": "投資者包含之初創業投資管理顧問股份有限公司（AppWorks）、中國信託創業投資股份有限公司、台灣文創天使投資股份有限公司、晨星活水影響力投資股份有限公司。",
+      "tags": ["Pre-A輪", "募資"],
+      "round_id": "Pre-A",
+      "tranche": 1,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "source": ""
+    },
+    {
+      "id": "popchill-2022-003",
+      "year": 2022,
+      "date": "2022",
+      "category": "業務進展",
+      "title": "網站尚未上線，處於測試階段",
+      "description": "Popchill網站尚未上線，仍在測試階段。將使用本輪資金驗證商業模式並加速規模化，期望2年內達到損益兩平；計畫拓展東南亞市場，並以女性市場扎根後，繼續開拓男性、嬰兒等物品交易市場。",
+      "tags": ["業務規劃"],
+      "source": ""
+    },
+    {
+      "id": "popchill-2023-001",
+      "year": 2023,
+      "date": "2023-10",
+      "category": "募資",
+      "title": "Pre-A輪募資（第2批）1,329,130美元",
+      "description": "投資者包含創新工業技術移轉股份有限公司、安發天使投資股份有限公司、500 Global、達盈天使投資股份有限公司、Acorn Pacific Ventures。本輪資金主要用於香港市場拓展，預計2024年以相同策略進入新加坡與馬來西亞市場。",
+      "tags": ["Pre-A輪", "募資"],
+      "round_id": "Pre-A",
+      "tranche": 2,
+      "amount_usd": 1329130,
+      "amount_disclosed": true,
+      "source": ""
+    },
+    {
+      "id": "popchill-2023-002",
+      "year": 2023,
+      "date": "2023",
+      "category": "營運指標",
+      "title": "單月營業額成長30倍",
+      "description": "PopChill單月營業額在過去一年從每月100萬元成長至3,000萬元，成長30倍；平均客單價成長4倍達2.4萬元。台灣市場每月維持至少10%成長，網站每月流量達30萬，App下載數突破25萬。",
+      "tags": ["營運數據"],
+      "source": ""
+    },
+    {
+      "id": "popchill-2024-001",
+      "year": 2024,
+      "date": "2024-04",
+      "category": "募資",
+      "title": "Pre-A輪募資（第3批）1,764,617美元",
+      "description": "投資者包含益鼎創業投資管理顧問股份有限公司、國發基金。本輪資金將加速台灣市場達到損益兩平規模，並助於香港市場更快速拓展，團隊預計於年底前開始香港外的第2個海外站點。",
+      "tags": ["Pre-A輪", "募資"],
+      "round_id": "Pre-A",
+      "tranche": 3,
+      "amount_usd": 1764617,
+      "amount_disclosed": true,
+      "source": ""
+    },
+    {
+      "id": "popchill-2024-002",
+      "year": 2024,
+      "date": "2024",
+      "category": "營運指標",
+      "title": "單月交易額突破5,000萬元",
+      "description": "PopChill單月交易額已突破新台幣5,000萬元，換算年化交易額達6億元。平台平均客單價達新台幣2萬8,000元。",
+      "tags": ["營運數據"],
+      "source": ""
+    },
+    {
+      "id": "popchill-2025-001",
+      "year": 2025,
+      "date": "2025-08",
+      "category": "募資",
+      "title": "A輪募資 3,147,884美元",
+      "description": "投資者包含達盈管理顧問股份有限公司、台安傑國際天使投資股份有限公司、創新工業技術移轉股份有限公司、安發天使投資股份有限公司、國發基金、夢想合夥人投資顧問股份有限公司。",
+      "tags": ["A輪", "募資"],
+      "round_id": "A",
+      "tranche": 1,
+      "amount_usd": 3147884,
+      "amount_disclosed": true,
+      "source": ""
+    },
+    {
+      "id": "popchill-2025-002",
+      "year": 2025,
+      "date": "2025",
+      "category": "營運指標",
+      "title": "2024年交易額成長120%",
+      "description": "2024年交易額較前一年成長120%，累計上架商品數突破10萬件，平均客單價達新台幣2萬7,000元。",
+      "tags": ["營運數據"],
+      "source": ""
+    },
+    {
+      "id": "popchill-2025-003",
+      "year": 2025,
+      "date": "2025",
+      "category": "產品/技術",
+      "title": "推出AI應用並導入Google Cloud Vertex AI",
+      "description": "本輪資金將主要用於深化AI技術於平台的應用，在既有C2C模式基礎上拓展寄賣服務與線下通路，並以台灣及香港經驗為基礎加速亞洲市場跨境業務佈局。未來將推出AI購物助理與AI上架助理兩大應用，並導入Google Cloud Vertex AI技術，用於優化內部營運效率、廣告投放轉換率，以及建立自動化防詐系統。",
+      "tags": ["AI", "Google Cloud Vertex AI"],
+      "source": ""
+    },
+    {
+      "id": "popchill-2025-004",
+      "year": 2025,
+      "date": "2025",
+      "category": "通路擴張",
+      "title": "推出「寄賣模式」，計畫2026開設實體門市",
+      "description": "平台於2025年中推出「寄賣模式」，並計畫於2026年開設實體門市。",
+      "tags": ["寄賣模式", "實體門市"],
+      "source": ""
+    },
+    {
+      "id": "popchill-2026-001",
+      "year": 2026,
+      "date": "2026",
+      "category": "通路擴張",
+      "title": "開設首間實體門市",
+      "description": "開設首間實體門市。有實體店可供顧客親自查看商品，讓顧客更安心下單；加上前一年發展的寄賣服務，讓實體門市發展更全面。",
+      "tags": ["實體門市"],
+      "source": ""
+    },
+    {
+      "id": "popchill-2026-002",
+      "year": 2026,
+      "date": "2026-08",
+      "category": "治理/危機",
+      "title": "創辦人夫妻離婚，郭家齊離開公司",
+      "description": "創辦人郭家齊、廖家欣夫妻離婚，郭家齊離開公司，對投資人而言或許是一項警訊。詳見crisis_notes。",
+      "tags": ["創辦人異動", "危機"],
+      "source": ""
+    }
+  ],
+  "crisis_notes": [
+    {
+      "crisis": "創辦人夫妻離婚，郭家齊離開公司",
+      "context": "2026年8月，創辦人郭家齊、廖家欣夫妻離婚，郭家齊離開公司，或許是一個對於投資人來說的警訊。",
+      "social_media_reaction": "未提及",
+      "investor_reaction": "視為潛在警訊",
+      "sentiment": "負向"
+    }
+  ]
 }
   ]
 }
