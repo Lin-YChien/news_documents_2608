@@ -726,6 +726,238 @@
       "sentiment": "負向"
     }
   ]
+},
+{
+  "company": "酷遊天",
+  "aliases": ["KKday"],
+  "founder_ceo": "陳明明",
+  "background": "陳明明過往創辦或參與的公司包括易遊網、燦星旅遊網，並曾收購易飛網。AppWorks創辦人林之晨曾表示，因陳明明過去的新創經歷豐富，相信其眼光是投資KKday的主因之一。",
+  "key_investors": ["AppWorks（A輪）", "達盈（C輪）"],
+  "development_scope": [
+    "旅遊電商平台，初期即設定東亞旅遊為版圖目標，而非局限於台灣國內自由行旅遊",
+    "採策略投資路線（尋找能協助開拓市場的資金），區別於競品Klook的財務投資路線（以高資本額發展市場）",
+    "後續拓展至伴手禮市場、預約系統平台Rezio、以及對外投資（FunNow、Activity Japan）"
+  ],
+  "patents": [],
+  "research_notes": {
+    "question": "為什麼六間主要創投裡面會有兩家公司都選擇投資KKday?",
+    "hypotheses": [
+      "KKday具有上市潛力，作為創投，投資KKday具有極大潛能為資金帶來更多回報",
+      "判斷機構買入信號",
+      "判斷危機發生時，投資者態度之情緒分析"
+    ]
+  },
+  "funding_rounds": [
+    {
+      "round_id": "A",
+      "tranches": 1,
+      "total_amount_twd": 140000000,
+      "total_amount_usd": null,
+      "amount_fully_disclosed": true,
+      "event_ids": ["kkday-2016-001"]
+    },
+    {
+      "round_id": "A+",
+      "tranches": 1,
+      "total_amount_usd": 7000000,
+      "amount_fully_disclosed": true,
+      "event_ids": ["kkday-2016-002"]
+    },
+    {
+      "round_id": "B",
+      "tranches": 1,
+      "total_amount_usd": 10500000,
+      "amount_fully_disclosed": true,
+      "event_ids": ["kkday-2018-001"]
+    },
+    {
+      "round_id": "B+",
+      "tranches": 1,
+      "total_amount_usd": null,
+      "amount_fully_disclosed": false,
+      "note": "資金以LINE Ventures及阿里巴巴為主，原文未揭露具體總金額；另提及2018/06/06獲阿里巴巴新創資金投資，推測為本輪的一部分。",
+      "event_ids": ["kkday-2018-002"]
+    },
+    {
+      "round_id": "C",
+      "tranches": 1,
+      "total_amount_twd": 2250000000,
+      "total_amount_usd": null,
+      "amount_fully_disclosed": true,
+      "event_ids": ["kkday-2020-001"]
+    },
+    {
+      "round_id": "C+",
+      "tranches": 1,
+      "total_amount_twd": 2800000000,
+      "total_amount_usd": null,
+      "amount_fully_disclosed": true,
+      "event_ids": ["kkday-2022-001"]
+    },
+    {
+      "round_id": "C_2024",
+      "tranches": 1,
+      "total_amount_usd": 70000000,
+      "amount_fully_disclosed": true,
+      "note": "原文標示為「C輪」，但時間點（2024/12）與前一次C輪（2020/09）相隔甚遠，疑為輪次命名有誤（可能應為C+2輪或D輪），建議之後核對原始資料源確認正確輪次名稱。",
+      "event_ids": ["kkday-2024-001"]
+    }
+  ],
+  "events": [
+    {
+      "id": "kkday-2016-001",
+      "year": 2016,
+      "date": "2016-03",
+      "category": "募資",
+      "title": "A輪募資 1.4億台幣",
+      "description": "KKday設定融資路線為策略投資，尋找能協助開拓更多市場的資金，區別於競品Klook走財務投資路線（以高資本額發展市場）。選擇AppWorks是因其在東亞深耕多年，有助於KKday發展東亞市場。KKday在A輪時就設定版圖不局限於台灣國內自由行旅遊，初期即設定東亞旅遊為大目標，加上創辦人多次創投成功經驗，讓此次投資成效更佳。",
+      "tags": ["A輪", "募資", "AppWorks"],
+      "round_id": "A",
+      "tranche": 1,
+      "amount_twd": 140000000,
+      "amount_usd": null,
+      "amount_disclosed": true,
+      "source": [
+        {"title": "投資很勤快》AppWorks 每出資 1 元，就帶動 4.2 元創投資金到台灣網路公司", "url": "TechOrange 科技報橘"},
+        {"title": "旅遊電商罕見金額！KKday獲1.4億台幣A輪投資，鎖定東南亞市場", "url": "https://www.bnext.com.tw/article/38933/BN-2016-03-15-154114-44"}
+      ]
+    },
+    {
+      "id": "kkday-2016-002",
+      "year": 2016,
+      "date": "2016-12",
+      "category": "募資",
+      "title": "A+輪募資 700萬美元",
+      "description": "A+輪繼續以AppWorks為主領投，KKday將開始在東南亞各國設立辦公室，加強東南亞在地自由行旅遊的產品開發。",
+      "tags": ["A+輪", "募資", "AppWorks"],
+      "round_id": "A+",
+      "tranche": 1,
+      "amount_usd": 7000000,
+      "amount_disclosed": true,
+      "source": [
+        {"title": "共85間網路公司開787份職缺，2017冬季AppWorks聯合大徵才開跑！", "url": "inside.com.tw"}
+      ]
+    },
+    {
+      "id": "kkday-2018-001",
+      "year": 2018,
+      "date": "2018-02-22",
+      "category": "募資",
+      "title": "B輪募資 1,050萬美元",
+      "description": "B輪投資由日本國際旅遊集團H.I.S.領投，延續策略投資路線。KKday發現日本國內旅遊行程較為封閉，若無當地資金挹注將難以取得當地廠商信賴，此次B輪投資即為在東北亞深耕，讓東北亞產品更加多元。",
+      "tags": ["B輪", "募資", "H.I.S."],
+      "round_id": "B",
+      "tranche": 1,
+      "amount_usd": 10500000,
+      "amount_disclosed": true,
+      "source": [
+        {"title": "旅遊平台KKday獲3億銀彈，聯手日本旅遊集團H.I.S.打國際戰", "url": "https://www.bnext.com.tw/article/48257/taiwanese-tourism-startup-kkday-closed-series-b-ten-million-dollars-funding"}
+      ]
+    },
+    {
+      "id": "kkday-2018-002",
+      "year": 2018,
+      "date": "2018-11",
+      "category": "募資",
+      "title": "B+輪募資（LINE Ventures及阿里巴巴）",
+      "description": "B+輪資金以LINE Ventures及阿里巴巴為主。LINE Ventures為東北亞深耕的延續，阿里巴巴則藉此與中國旅遊平台飛豬互助，借助阿里巴巴生態系與策略資源，加速平台數位化轉型與海外市場拓展。另悉2018/06/06已獲得阿里巴巴新創資金投資，推測為本輪資金的一部分。",
+      "tags": ["B+輪", "募資", "LINE Ventures", "阿里巴巴"],
+      "round_id": "B+",
+      "tranche": 1,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "source": [
+        {"title": "KKday宣佈獲得LINE Ventures的B+輪投資", "url": "https://www.inside.com.tw/article/14650-kkday-series-b-line-venturesv"}
+      ]
+    },
+    {
+      "id": "kkday-2020-001",
+      "year": 2020,
+      "date": "2020-09",
+      "category": "募資",
+      "title": "C輪募資 22.5億元",
+      "description": "C輪投資由既有股東Cool Japan Fund（CJF）加碼領投，國發基金、中華開發資本、達盈管顧等投資單位參與。CJF資金由日本政府與私人企業共同出資，政府資金占比高達九成，為日本政府推廣日本文化到國外所創立的基金。2020年疫情期間，KKday即時反應轉向發展國內旅遊、開發預約系統Rezio等因應疫情策略；Rezio提供業者建立預約系統及官網的服務。KKday也將東亞旅遊業版塊轉向拓展伴手禮市場。",
+      "tags": ["C輪", "募資", "Cool Japan Fund", "疫情因應"],
+      "round_id": "C",
+      "tranche": 1,
+      "amount_twd": 2250000000,
+      "amount_usd": null,
+      "amount_disclosed": true,
+      "source": [
+        {"title": "台灣新創逆勢衝 募資傳捷報", "url": "中時新聞網"},
+        {"title": "KKday不畏旅遊業慘況，宣布獲得C輪22.5億元募資，日本官方基金加碼領投", "url": "數位時代"},
+        {"title": "【科技洞察】疫情更吸金！台灣新創KKday、Vpon與iChef為何獲金主青睞？", "url": "遠見雜誌"}
+      ]
+    },
+    {
+      "id": "kkday-2022-001",
+      "year": 2022,
+      "date": "2022-07-14",
+      "category": "募資",
+      "title": "C+輪募資 28億台幣",
+      "description": "本輪投資以發展疫情期新平台Rezio為主，另因疫情解封持續擴大既有的外國旅遊業務。同年2月，KKday與FineDayClub共同發售全球首顆「可以吃的NFT」，設計520顆NFT，可憑此兌換餐廳相關餐點，提供客戶虛實整合的VR體驗。",
+      "tags": ["C+輪", "募資", "Rezio", "NFT"],
+      "round_id": "C+",
+      "tranche": 1,
+      "amount_twd": 2800000000,
+      "amount_usd": null,
+      "amount_disclosed": true,
+      "source": [
+        {"title": "站在疫情海嘯第一排仍逆勢成長！KKday靠B2B新武器與海外人才佈局解封後旅遊商機", "url": "Meet創業小聚"}
+      ]
+    },
+    {
+      "id": "kkday-2024-001",
+      "year": 2024,
+      "date": "2024-12",
+      "category": "募資",
+      "title": "C輪募資 7,000萬美元",
+      "description": "投資者包含Cool Japan Fund、國發基金、ZUU & De Capital Fund、彰銀創投、達盈管理顧問。自2021年起，KKday也開始成為投資人，投資都會玩樂即時預訂平台FunNow，並收購日本知名旅遊體驗預訂平台Activity Japan。",
+      "tags": ["C輪", "募資", "Cool Japan Fund", "FunNow", "Activity Japan"],
+      "round_id": "C_2024",
+      "tranche": 1,
+      "amount_usd": 70000000,
+      "amount_disclosed": true,
+      "source": ""
+    }
+  ],
+  "crisis_notes": [
+    {
+      "crisis": "2014年創立初期，競品Klook同期成立",
+      "context": "Klook為中資創立之旅遊品牌，與KKday平台性質相似度高。Klook著重國際旅遊，KKday則著重東南亞旅遊及台灣當地旅遊。",
+      "social_media_reaction": "無",
+      "investor_reaction": "不信任",
+      "sentiment": "偏負向"
+    },
+    {
+      "crisis": "2015~2019 Klook竊取商業機密與個資外洩事件",
+      "context": "KKday前陳姓產品經理於2019年跳槽至競爭對手Klook擔任資深副總監，隨後涉嫌利用KKday系統漏洞、員工帳號及預設密碼，與Klook內部同夥於2021年間不法登入KKday後台高達472次，下載並竊取包含合作廠商名稱、銷售數量、成本金額、客戶流量分析等核心商業機密。",
+      "social_media_reaction": "擔心",
+      "investor_reaction": null,
+      "sentiment": null
+    },
+    {
+      "crisis": "2020新冠疫情",
+      "context": "因無法出國，KKday曾出現0營業額的情況。KKday因應疫情開發國內旅遊、國外伴手禮業務以及Rezio預約平台，以度過疫情危機。",
+      "social_media_reaction": "減少下單",
+      "investor_reaction": "9月開啟C輪投資成功",
+      "sentiment": "極度正向"
+    },
+    {
+      "crisis": "2025大規模裁員（新聞渲染）",
+      "context": "新聞標題渲染裁員規模，但實際內文僅38人，占比3.8%，推測可能是同業競爭下的負面操作。",
+      "social_media_reaction": "憂心",
+      "investor_reaction": null,
+      "sentiment": null
+    },
+    {
+      "crisis": "顧客危機",
+      "context": "長期以來，有許多顧客在社群網站上發布對KKday後續處理不善、或客服態度不佳的抱怨。",
+      "social_media_reaction": "憤怒、不滿",
+      "investor_reaction": null,
+      "sentiment": null
+    }
+  ]
 }
   ]
 }
