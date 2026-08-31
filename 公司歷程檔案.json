@@ -390,6 +390,130 @@
       "source": ""
     }
   ]
+},
+{
+  "company": "凱鍶科技",
+  "founder_ceo": "沈宗桓、張瑋辰",
+  "background": "凱鍶科技並非沈宗桓第一次創業，但是他第一次需要進到實驗室的創業。",
+  "key_investors": [
+    "益鼎創業投資管理顧問股份有限公司(A、B輪)",
+    "金谷創業投資股份有限公司",
+    "國發基金(A、B輪)",
+    "第一創業投資股份有限公司"
+  ],
+  "development_scope": [
+    "奈米高導電銅漿",
+    "奈米導電銅電池"
+  ],
+  "patents": [
+    {
+      "title": "抗氧化導電散熱銅漿黏著劑及其製造方法",
+      "grant_date": "2025-01-21",
+      "patent_no": "I870684",
+      "application_no": "111127630"
+    },
+    {
+      "title": "抗氧化導電銅漿及其製造方法與應用",
+      "grant_date": "2022-08-01",
+      "patent_no": "I772655",
+      "application_no": "108122143"
+    },
+    {
+      "title": "高附著性導電銅膠體及其網版印刷應用方法",
+      "grant_date": "2018-07-11",
+      "patent_no": "I629337",
+      "application_no": "105124136"
+    }
+  ],
+  "research_notes": {
+    "question": "為什麼六間主要創投裡面會有三家公司都選擇投資凱鍶科技?",
+    "hypotheses": [
+      "判斷機構買入信號",
+      "判斷危機發生時，投資者態度之情緒分析"
+    ]
+  },
+  "funding_rounds": [
+    {
+      "round_id": "A",
+      "tranches": 1,
+      "total_amount_usd": null,
+      "amount_fully_disclosed": false,
+      "event_ids": ["kaisi-2022-001"]
+    },
+    {
+      "round_id": "B",
+      "tranches": 1,
+      "total_amount_usd": 3591330,
+      "amount_fully_disclosed": true,
+      "event_ids": ["kaisi-2024-001"]
+    }
+  ],
+  "events": [
+    {
+      "id": "kaisi-2019-001",
+      "year": 2019,
+      "date": "2019",
+      "category": "設廠/進駐",
+      "title": "進駐台中科學園區",
+      "description": "凱鍶科技進駐台中科學園區。",
+      "tags": ["台中科學園區"],
+      "source": ""
+    },
+    {
+      "id": "kaisi-2022-001",
+      "year": 2022,
+      "date": "2022-09",
+      "category": "募資",
+      "title": "A輪募資（未揭露金額）",
+      "description": "掌握電銅膠技術，克服銅氧化問題，成功量產奈米抗氧化銅粉；並具備客製化能力，提供客戶適用於各式應用與製程的導電銅漿。",
+      "tags": ["A輪", "募資", "奈米銅粉"],
+      "round_id": "A",
+      "tranche": 1,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "source": ""
+    },
+    {
+      "id": "kaisi-2024-001",
+      "year": 2024,
+      "date": "2024-08",
+      "category": "募資",
+      "title": "B輪募資 3,591,330美元",
+      "description": "B輪募資金額為3,591,330美元。",
+      "tags": ["B輪", "募資"],
+      "round_id": "B",
+      "tranche": 1,
+      "amount_usd": 3591330,
+      "amount_disclosed": true,
+      "source": ""
+    },
+    {
+      "id": "kaisi-2026-001",
+      "year": 2026,
+      "date": "2026-06",
+      "category": "資本市場",
+      "title": "簽署股票上市櫃輔導契約",
+      "description": "華南永昌證券看好綠色製程與新材料技術的關鍵布局，正式與凱鍶科技股份有限公司簽署股票上市櫃輔導契約。優異性能且高散熱的抗氧化奈米銅膠產品可跨足半導體封裝、IC設計、車用電子及消費性終端廠商，應用範圍廣大。",
+      "tags": ["上市櫃輔導", "華南永昌證券"],
+      "source": ""
+    }
+  ],
+  "crisis_notes": [
+    {
+      "crisis": "成長曲線緩慢",
+      "context": "成長曲線跟其他科技業不同，做材料會有一段低谷期，而且比較難以觀察出成長的曲線，會需要向股東、同仁解釋。",
+      "social_media_reaction": "無",
+      "investor_reaction": "無法理解此製程",
+      "sentiment": "負向"
+    },
+    {
+      "crisis": "疫情",
+      "context": "疫情期間，益鼎投資在觀察凱鍶科技產品方向。",
+      "social_media_reaction": "無",
+      "investor_reaction": "觀察",
+      "sentiment": "正向"
+    }
+  ]
 }
   ]
 }
